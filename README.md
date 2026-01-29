@@ -31,9 +31,9 @@ countries, and release trends.
 - `netflix_titles.csv` → Dataset
 - 
 - `dashboard.png` → Dashboard preview image
-![Netflix Screenshot](Screenshot 2026-01-27 144300.png)
-
+![Netflix Screenshot](images/Screenshot_2026-01-27_144300.png
 
 ## 🚀 Conclusion
 This dashboard helps understand Netflix’s content strategy
-and trends across years, genres, ratings, and countries.
+
+
