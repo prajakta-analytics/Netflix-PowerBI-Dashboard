@@ -29,7 +29,10 @@ countries, and release trends.
 ## 📂 Files in this Repository
 - `Netflix_Dashboard.pbix` → Power BI dashboard file
 - `netflix_titles.csv` → Dataset
+- 
 - `dashboard.png` → Dashboard preview image
+![Netflix Screenshot](Screenshot 2026-01-27 144300.png)
+
 
 ## 🚀 Conclusion
 This dashboard helps understand Netflix’s content strategy
